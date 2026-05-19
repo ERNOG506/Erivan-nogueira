@@ -1,6 +1,6 @@
 # Olá, eu sou o Erivan! 👋
 
-Sou estudante de Análise e Desenvolvimento de Sistemas (atualmente no 4º semestre) focado em programação, banco de dados e desenvolvimento de jogos. Curto transformar lógica em código limpo e passar horas criando mecânicas que funcionam de verdade.
+Sou estudante de Análise e Desenvolvimento de Sistemas focado em programação, banco de dados e desenvolvimento de jogos. Curto transformar lógica em código limpo e passar horas criando mecânicas que funcionam de verdade.
 
 ---
 
